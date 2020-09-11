@@ -12,7 +12,7 @@ A keen ambitious programmer aiming to provide a level head, drive and energy to 
 Project	| Summary |	Technologies |	Testing
 -------- | --------  | -------- | --------
 [ChooseMyPlant](https://github.com/katieljones/FinalProject_CMP) |	Our final project at Maker's. We all wanted to work on a mobile application that would promote greenery in and outside the house. This iOS app provides the user with randomised selection of plants which they can favourite to a wishlist. | 	Swift, XCode, Firebase, NoSQL, Trefle API |	UITesting
-[Maker's Bnb](https://github.com/samlandman/Makersbnb) |	With 5 weeks of coding experience, 5 Makers worked to create a clone of Airbnb.	| Ruby, HTML, CSS, Postgresql, ElephantSQL, Sinatra, Selenium-Webdriver, Bcrypt | Rspec, Capybara
+[Maker's Bnb](https://github.com/samlandman/Makersbnb) |	With 5 weeks of coding experience, 5 Makers worked to create a clone of Airbnb.	| Javascript, HTML, CSS, ElephantSQL, nodeJS, | Jasmine
 [Thermostat](https://github.com/mattybwoy/Thermostat)	| An interactive thermostat with counter function|	HTML, CSS, Javascript, JQuery | Jasmine
 [Bowling](https://github.com/mattybwoy/bowling-challenge)	| Weekend bowling scorecard challenge requiring user input | HTML, CSS,	Javascript, JQuery | Jasmine
 
@@ -28,16 +28,25 @@ To reflect on my time at Makers I set up a weekly blog which can be accessed [he
 
 ## **Education**
 
-### **Makers Academy (05/20 to 08/20)**
+### **Makers Academy (05/20 - 08/20)**
+
+- Software Development
 
 12 week intensive coding bootcamp focused on self-learning, pair programming and teamwork with an emphasis on TDD. Group projects undertaken with an AGILE methodology following XP values.
 
+###City, University of London (05/19 - 06/19)
 
-### Kingston University **(09/05 to 07/09)**
+- Database design with SQL Server
 
-- Business Studies
+I have undertaken a 5 week part time SQL course at City University to enhance my knowledge of databases and how they are structured. The course covered entity relationship modelling, normalisation and query writing including joins for multiple tables. It was my first experience with backend programming and learning how data can be structured for retrieval or manipulation.
 
-Have previously undertaken a 5 week part time SQL course at City University to enhance my knowledge of databases and how they are structured. A combination of lecture and lab work helped me gain experience in writing queries. I enjoyed the course a lot and it was my first experience with backend programming.   
+
+### Kingston University **(09/05 - 07/09)**
+
+- BA Hons Business Studies
+
+Course provided me with an insight into basic HTML and CSS, statistical analysis of trends, how businesses work, HR practices and brand management. 
+   
 
 ## **Experience**
 
@@ -52,6 +61,12 @@ Have previously undertaken a 5 week part time SQL course at City University to e
 **GCL Logistics (11/12 - 08/17) Overseas Business Executive/Import Executive**
 
 - Used variety of different software to handle shipments from overseas partners and clearing customs to avoid any potential holdups in delivery. Changed roles from oversea sales to operations for a new challenge.
+
+**Sainsburys (03/10 - 11/12) Counter Assistant**
+- Front facing customer orientated role which helped me gain communication and customer service skills
+- Responsable for maintaining stock levels for key and general products to maximise sales
+ 
+
 
 ## **Hobbies**
 
