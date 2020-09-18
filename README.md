@@ -26,8 +26,10 @@ Project	| Summary |	Technologies |	Testing
 
 - **Self Starter** - The most important skill picked up during my time at Makers is being **self sufficient** in starting new projects. Knowing how to implement user requirements with planning/diagramming and TDD has helped further my programming knowledge. My skill has been further developed by spending my weekends on solo challenges set by Makers with minimal instructions. I particularly enjoyed the Rock, paper, scissors game I created following the **MVC** structure based on Ruby. It was our first foray into web development and It was super interesting writing the logic for the game and having it visually represented on a browser.
 <br>
+
 - **Communication** - Equally adept at working by myself and **teamworking**, one of my previous roles was for handling all shipments and managing relationships for a couple of our key contracts, WAHL and JML. With my partner we were able to satisfy the demands of our clients with frequent communication, updates including ETA's, delays etc.
 <br>
+
 - **Flexible** - I am open to switching roles, learning new skills/technologies and ways of working. I switched from an overseas sales position to a more technical operational role to gain a better understanding of behind the scenes. In that sense Makers has been a good fit for me as I'm keen on new challenges, pushing myself and taking the **initiative** in my own learning. 
 
 To reflect on my time at Makers I set up a weekly blog which can be accessed [here](https://medium.com/@mlock3371)
@@ -40,14 +42,14 @@ To reflect on my time at Makers I set up a weekly blog which can be accessed [he
 
 12 week intensive coding bootcamp focused on self-learning, pair programming and teamwork with an emphasis on TDD. Group projects undertaken with an AGILE methodology following XP values.
 
-###City, University of London (05/19 - 06/19)
+### **City, University of London (05/19 - 06/19)**
 
 - Database design with SQL Server
 
 I have undertaken a 5 week part time SQL course at City University to enhance my knowledge of databases and how they are structured. The course covered entity relationship modelling, normalisation and query writing including joins for multiple tables. It was my first experience with backend programming and learning how data can be structured for retrieval or manipulation.
 
 
-### Kingston University **(09/05 - 07/09)**
+### **Kingston University (09/05 - 07/09)**
 
 - BA Hons Business Studies
 
